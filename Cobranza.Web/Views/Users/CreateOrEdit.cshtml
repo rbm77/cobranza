@@ -1,0 +1,106 @@
+﻿<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body p-b-0">
+
+                <form class="form-material">
+
+                    <!-- Nav tabs -->
+                    <ul class="nav nav-tabs customtab" role="tablist">
+                        <li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#user" role="tab"><span class="hidden-sm-up"><i class="mdi mdi-qrcode-scan"></i></span> <span class="hidden-xs-down">Usuario</span></a> </li>
+                        <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#credentials" role="tab"><span class="hidden-sm-up"><i class="mdi mdi-filter-outline"></i></span> <span class="hidden-xs-down">Credenciales</span></a> </li>
+                    </ul>
+                    <!-- Tab panes -->
+                    <div class="tab-content mt-4 mb-4">
+
+                        <div class="tab-pane active" id="user" role="tabpanel">
+
+                            <h4 class="card-title">Usuario</h4>
+                            <h6 class="card-subtitle">Información personal</h6>
+
+                            <div class="mt-4">
+
+                                <div class="row">
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Código</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Nombre</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Apellido</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Teléfono</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="tab-pane" id="credentials" role="tabpanel">
+
+                            <h4 class="card-title">Credenciales</h4>
+                            <h6 class="card-subtitle">Configuración de acceso</h6>
+
+                            <div class="mt-4">
+
+                                <div class="row">
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Contraseña</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Confirmar contraseña</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Rol</label>
+                                            <select id="cmbRoles" class="form-control form-select">
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-check" style="margin-bottom: 25px;">
+                                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                                Usuario activo
+                                            </label>
+                                        </div>
+                                    </div>
+                            
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <button type="button" class="btn btn-rounded btn-success"><i class="mdi mdi-check"></i> Aceptar</button>
+                        <button type="button" class="btn btn-rounded btn-danger"><i class="mdi mdi-close"></i> Cancelar</button>
+
+                    </div>
+
+                </form>
+
+            </div>
+
+
+        </div>
+    </div>
+</div>

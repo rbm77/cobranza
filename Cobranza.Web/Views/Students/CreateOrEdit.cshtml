@@ -1,0 +1,207 @@
+﻿<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body p-b-0">
+
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs customtab" role="tablist">
+                    <li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#student" role="tab"><span class="hidden-sm-up"><i class="mdi mdi-qrcode-scan"></i></span> <span class="hidden-xs-down">Estudiante</span></a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#contacts" role="tab"><span class="hidden-sm-up"><i class="mdi mdi-filter-outline"></i></span> <span class="hidden-xs-down">Contactos</span></a> </li>
+                </ul>
+                <!-- Tab panes -->
+                <div class="tab-content mt-4 mb-4">
+                    <div class="tab-pane active" id="student" role="tabpanel">
+                        <h4 class="card-title">Estudiante</h4>
+                        <h6 class="card-subtitle">Información personal</h6>
+
+                        <form class="form-material">
+
+                            <div class="mt-4">
+
+                                <div class="row">
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Código</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Nombre</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Apellido</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label lbl-textbox-2">Dirección</label>
+                                            <textarea class="form-control" rows="2"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Ruta</label>
+                                            <select id="cmbRoutes" class="form-control form-select">
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Zona</label>
+                                            <select id="cmbZones" class="form-control form-select">
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Grado</label>
+                                            <select id="cmbDegrees" class="form-control form-select">
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="form-group">
+                                            <label class="form-label">Grupo</label>
+                                            <select id="cmbGroups" class="form-control form-select">
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <button type="button" class="btn btn-rounded btn-success"><i class="mdi mdi-check"></i> Aceptar</button>
+                                <button type="button" class="btn btn-rounded btn-danger"><i class="mdi mdi-close"></i> Cancelar</button>
+                            </div>
+
+
+                        </form>
+
+                    </div>
+                    <div class="tab-pane" id="contacts" role="tabpanel">
+                        <h4 class="card-title">Contactos</h4>
+
+                        <div class="row mt-4 mb-4">
+                        <div class="col">
+                            <div class="d-flex flex-row results-counter">
+                                <div class="round align-self-center round-info"><i class="ti-user"></i></div>
+                                <div class="m-l-10 align-self-center">
+                                    <h3 class="m-b-0">342</h3>
+                                    <h5 class="text-muted m-b-0">Registros</h5>
+                                </div>
+                             </div>
+                        </div>
+
+                        <div class="col text-end">
+                            <button type="button" class="btn btn-primary btn-rounded text-white">
+                                <i class="fa fa-plus"></i> Nuevo
+                            </button>
+                        </div>
+                        </div>
+
+
+
+                        <div class="table-responsive">
+                            <table class="table stylish-table">
+                                <tbody>
+                                    <tr class="ripple">
+                                        <td>
+                                            <div>
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <h5 class="mb-1 color-primary">Miguel Esteban Pérez Solorzano</h5>
+                                                    </div>
+                                                </div>
+                                                <p class="mb-1 mt-1">
+                                                    <strong>Ruta</strong> San Juan
+                                                    <strong>Zona</strong> Alto Murillo
+                                                    <strong>Grado</strong> Segundo
+                                                    <strong>Grupo</strong> A
+                                                </p>
+                                                <small><strong>Código</strong> 0000000001</small>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr class="ripple">
+                                        <td>
+                                            <div>
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <h5 class="mb-1 color-primary">Miguel Esteban Pérez Solorzano</h5>
+                                                    </div>
+                                                </div>
+                                                <p class="mb-1 mt-1">
+                                                    <strong>Ruta</strong> San Juan
+                                                    <strong>Zona</strong> Alto Murillo
+                                                    <strong>Grado</strong> Segundo
+                                                    <strong>Grupo</strong> A
+                                                </p>
+                                                <small><strong>Código</strong> 0000000001</small>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr class="ripple">
+                                        <td>
+                                            <div>
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <h5 class="mb-1 color-primary">Miguel Esteban Pérez Solorzano</h5>
+                                                    </div>
+                                                </div>
+                                                <p class="mb-1 mt-1">
+                                                    <strong>Ruta</strong> San Juan
+                                                    <strong>Zona</strong> Alto Murillo
+                                                    <strong>Grado</strong> Segundo
+                                                    <strong>Grupo</strong> A
+                                                </p>
+                                                <small><strong>Código</strong> 0000000001</small>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr class="ripple">
+                                        <td>
+                                            <div>
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <h5 class="mb-1 color-primary">Miguel Esteban Pérez Solorzano</h5>
+                                                    </div>
+                                                </div>
+                                                <p class="mb-1 mt-1">
+                                                    <strong>Ruta</strong> San Juan
+                                                    <strong>Zona</strong> Alto Murillo
+                                                    <strong>Grado</strong> Segundo
+                                                    <strong>Grupo</strong> A
+                                                </p>
+                                                <small><strong>Código</strong> 0000000001</small>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+        const cmbDegrees = document.getElementById('cmbDegrees');
+        loadList(document.getElementById('cmbRoutes'), '../api/routes');
+        loadList(document.getElementById('cmbZones'), '../api/zones');
+        loadList(cmbDegrees, '../api/degrees');
+        cmbDegrees.addEventListener('change', function () {
+            loadList(document.getElementById('cmbGroups'), `../api/degrees/${cmbDegrees.value}/groups`);
+        });
+
+    </script>
+}

@@ -1,0 +1,1849 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\crypto-icons\\cryptocoins-colors.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\crypto-icons\\cryptocoins-colors.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\crypto-icons\\cryptocoins.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\crypto-icons\\cryptocoins.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\crypto-icons\\cryptocoins.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\crypto-icons\\cryptocoins.ttf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\crypto-icons\\cryptocoins.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\crypto-icons\\cryptocoins.woff"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\crypto-icons\\cryptocoins.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons\\crypto-icons\\cryptocoins.woff2"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\custom\\qr_icon.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\custom\\qr_icon.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flag-icon.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flag-icon.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ad.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ad.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ae.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ae.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\af.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\af.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ag.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ag.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ai.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ai.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\al.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\al.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\am.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\am.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ao.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ao.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\aq.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\aq.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ar.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ar.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\as.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\as.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\at.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\at.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\au.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\au.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\aw.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\aw.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ax.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ax.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\az.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\az.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ba.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ba.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bb.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bb.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bd.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bd.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\be.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\be.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bf.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bf.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bg.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bg.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bh.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bh.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bi.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bi.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bj.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bj.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bl.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bl.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bn.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bn.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bo.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bo.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bq.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bq.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\br.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\br.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bs.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bs.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bt.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bt.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bv.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bv.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bw.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bw.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\by.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\by.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bz.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bz.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ca.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ca.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cc.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cc.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cd.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cd.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cf.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cf.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cg.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cg.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ch.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ch.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ci.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ci.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ck.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ck.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cl.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cl.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cn.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cn.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\co.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\co.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cr.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cr.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cu.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cu.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cv.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cv.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cw.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cw.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cx.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cx.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cy.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cy.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cz.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cz.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\de.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\de.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\dj.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\dj.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\dk.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\dk.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\dm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\dm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\do.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\do.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\dz.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\dz.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ec.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ec.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ee.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ee.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\eg.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\eg.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\eh.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\eh.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\er.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\er.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\es.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\es.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\et.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\et.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fi.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fi.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fj.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fj.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fk.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fk.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fo.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fo.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fr.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ga.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ga.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gb.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gb.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gd.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gd.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ge.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ge.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gf.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gf.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gg.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gg.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gh.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gh.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gi.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gi.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gl.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gl.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gn.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gn.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gp.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gp.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gq.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gq.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gr.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gs.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gs.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gt.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gt.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gu.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gu.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gw.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gw.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gy.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gy.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\hk.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\hk.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\hm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\hm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\hn.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\hn.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\hr.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\hr.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ht.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ht.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\hu.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\hu.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\id.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\id.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ie.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ie.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\il.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\il.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\im.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\im.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\in.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\in.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\io.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\io.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\iq.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\iq.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ir.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ir.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\is.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\is.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\it.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\it.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\je.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\je.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\jm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\jm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\jo.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\jo.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\jp.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\jp.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ke.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ke.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kg.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kg.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kh.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kh.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ki.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ki.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\km.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\km.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kn.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kn.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kp.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kp.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kr.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kr.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kw.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kw.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ky.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ky.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kz.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kz.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\la.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\la.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lb.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lb.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lc.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lc.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\li.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\li.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lk.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lk.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lr.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lr.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ls.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ls.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lt.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lt.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lu.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lu.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lv.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lv.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ly.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ly.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ma.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ma.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mc.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mc.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\md.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\md.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\me.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\me.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mf.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mf.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mg.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mg.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mh.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mh.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mk.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mk.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ml.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ml.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mn.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mn.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mo.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mo.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mp.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mp.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mq.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mq.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mr.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mr.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ms.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ms.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mt.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mt.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mu.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mu.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mv.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mv.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mw.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mw.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mx.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mx.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\my.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\my.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mz.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mz.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\na.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\na.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nc.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nc.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ne.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ne.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nf.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nf.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ng.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ng.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ni.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ni.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nl.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nl.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\no.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\no.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\np.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\np.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nr.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nr.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nu.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nu.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nz.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nz.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\om.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\om.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pa.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pe.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pe.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pf.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pf.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pg.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pg.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ph.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ph.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pk.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pk.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pl.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pl.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pn.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pn.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pr.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pr.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ps.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ps.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pt.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pt.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pw.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pw.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\py.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\py.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\qa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\qa.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\re.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\re.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ro.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ro.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\rs.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\rs.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ru.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\rw.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\rw.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sa.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sa.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sb.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sb.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sc.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sc.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sd.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sd.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\se.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\se.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sg.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sg.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sh.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sh.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\si.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\si.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sj.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sj.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sk.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sk.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sl.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sl.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sn.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sn.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\so.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\so.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sr.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sr.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ss.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ss.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\st.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\st.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sv.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sv.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sx.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sx.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sy.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sy.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sz.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sz.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tc.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tc.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\td.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\td.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tf.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tf.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tg.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tg.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\th.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\th.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tj.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tj.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tk.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tk.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tl.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tl.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tn.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tn.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\to.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\to.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tr.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tr.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tt.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tt.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tv.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tv.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tw.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tw.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tz.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tz.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ua.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ua.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ug.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ug.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\um.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\um.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\us.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\us.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\uy.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\uy.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\uz.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\uz.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\va.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\va.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\vc.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\vc.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ve.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ve.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\vg.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\vg.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\vi.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\vi.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\vn.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\vn.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\vu.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\vu.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\wf.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\wf.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ws.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ws.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ye.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ye.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\yt.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\yt.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\za.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\za.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\zm.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\zm.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\zw.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\zw.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_animated.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_core.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_core.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_icons.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_larger.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_list.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_list.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_mixins.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_shims.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_shims.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_stacked.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\_variables.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\brands.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\brands.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\fontawesome.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\regular.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\regular.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\solid.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\solid.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\less\\v4-shims.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\less\\v4-shims.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_shims.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_shims.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\brands.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\brands.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\regular.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\regular.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\solid.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\solid.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\scss\\v4-shims.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\scss\\v4-shims.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\iconmind\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\iconmind\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\iconmind\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\iconmind\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\iconmind\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\iconmind\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\iconmind\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\iconmind\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\iconmind\\iconmind.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\iconmind\\iconmind.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\iconmind\\iconmind.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\iconmind\\iconmind.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\simple-line-icons\\less\\simple-line-icons.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\less\\simple-line-icons.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\simple-line-icons\\scss\\simple-line-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\scss\\simple-line-icons.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\ie7\\ie7.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\ie7\\ie7.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\themify-icons\\themify-icons.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\themify-icons.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\css\\weather-icons-core.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\css\\weather-icons-core.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\css\\weather-icons-variables.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\css\\weather-icons-variables.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\css\\weather-icons-wind.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\css\\weather-icons-wind.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\css\\weather-icons-wind.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\css\\weather-icons-wind.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\css\\weather-icons.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\css\\weather-icons.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\css\\variables-beaufort.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\css\\variables-beaufort.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\css\\variables-day.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\css\\variables-day.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\css\\variables-direction.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\css\\variables-direction.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\css\\variables-misc.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\css\\variables-misc.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\css\\variables-moon.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\css\\variables-moon.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\css\\variables-neutral.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\css\\variables-neutral.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\css\\variables-night.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\css\\variables-night.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\css\\variables-time.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\css\\variables-time.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\css\\variables-wind-names.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\css\\variables-wind-names.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-beaufort.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-beaufort.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-day.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-day.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-direction.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-direction.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-misc.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-misc.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-moon-aliases.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-moon-aliases.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-moon.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-moon.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-neutral.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-neutral.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-night.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-night.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-time.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-time.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-wind-aliases.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-wind-aliases.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-wind-degrees.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-wind-degrees.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-wind.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-classes\\classes-wind.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-beaufort.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-beaufort.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-day.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-day.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-direction.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-direction.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-misc.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-misc.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-moon.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-moon.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-neutral.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-neutral.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-night.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-night.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-time.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-time.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-wind-names.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\icon-variables\\variables-wind-names.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\mappings\\wi-forecast-io.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\mappings\\wi-forecast-io.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\mappings\\wi-owm.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\mappings\\wi-owm.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\mappings\\wi-wmo4680.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\mappings\\wi-wmo4680.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\mappings\\wi-yahoo.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\mappings\\wi-yahoo.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\weather-icons-classes.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\weather-icons-classes.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\weather-icons-core.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\weather-icons-core.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\weather-icons-variables.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\weather-icons-variables.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\weather-icons-wind.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\weather-icons-wind.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\weather-icons-wind.min.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\weather-icons-wind.min.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\weather-icons.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\weather-icons.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\less\\weather-icons.min.less",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\less\\weather-icons.min.less"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-beaufort.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-beaufort.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-day.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-day.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-direction.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-direction.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-misc.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-misc.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-moon-aliases.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-moon-aliases.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-moon.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-moon.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-neutral.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-neutral.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-night.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-night.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-time.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-time.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-aliases.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-aliases.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-degrees.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-degrees.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-wind.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-classes\\classes-wind.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-beaufort.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-beaufort.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-day.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-day.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-direction.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-direction.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-misc.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-misc.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-moon.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-moon.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-neutral.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-neutral.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-night.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-night.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-time.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-time.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-wind-names.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\icon-variables\\variables-wind-names.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\mappings\\wi-forecast-io.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\mappings\\wi-forecast-io.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\mappings\\wi-owm.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\mappings\\wi-owm.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\mappings\\wi-wmo4680.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\mappings\\wi-wmo4680.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\mappings\\wi-yahoo.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\mappings\\wi-yahoo.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\weather-icons-classes.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\weather-icons-classes.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\weather-icons-core.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\weather-icons-core.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\weather-icons-variables.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\weather-icons-variables.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\weather-icons-wind.min.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\weather-icons-wind.min.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\weather-icons-wind.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\weather-icons-wind.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\weather-icons.min.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\weather-icons.min.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\icons\\weather-icons\\sass\\weather-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\sass\\weather-icons.scss"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\css\\icon-page.css",
+      "PackagePath": "staticwebassets\\css\\icon-page.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\css\\my-custom.css",
+      "PackagePath": "staticwebassets\\css\\my-custom.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\css\\tab-page.css",
+      "PackagePath": "staticwebassets\\css\\tab-page.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\js\\custom.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\jasny-bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\jasny-bootstrap.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\qrCodeScanner.js",
+      "PackagePath": "staticwebassets\\js\\qrCodeScanner.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\qr_packed.js",
+      "PackagePath": "staticwebassets\\js\\qr_packed.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\js\\sticky-kit.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\Proyectos\\Cobranza\\Cobranza.Web\\wwwroot\\js\\waves.js",
+      "PackagePath": "staticwebassets\\js\\waves.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Cobranza.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Cobranza.Web.props",
+      "PackagePath": "build\\Cobranza.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Cobranza.Web.props",
+      "PackagePath": "buildMultiTargeting\\Cobranza.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Cobranza.Web.props",
+      "PackagePath": "buildTransitive\\Cobranza.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

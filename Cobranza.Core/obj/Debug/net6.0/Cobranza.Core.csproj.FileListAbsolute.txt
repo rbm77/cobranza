@@ -1,0 +1,12 @@
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\bin\Debug\net6.0\Cobranza.Core.deps.json
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\bin\Debug\net6.0\Cobranza.Core.dll
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\bin\Debug\net6.0\Cobranza.Core.pdb
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\obj\Debug\net6.0\Cobranza.Core.csproj.AssemblyReference.cache
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\obj\Debug\net6.0\Cobranza.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\obj\Debug\net6.0\Cobranza.Core.AssemblyInfoInputs.cache
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\obj\Debug\net6.0\Cobranza.Core.AssemblyInfo.cs
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\obj\Debug\net6.0\Cobranza.Core.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\obj\Debug\net6.0\Cobranza.Core.dll
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\obj\Debug\net6.0\refint\Cobranza.Core.dll
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\obj\Debug\net6.0\Cobranza.Core.pdb
+C:\Desarrollo\Proyectos\Cobranza\Cobranza.Core\obj\Debug\net6.0\ref\Cobranza.Core.dll
